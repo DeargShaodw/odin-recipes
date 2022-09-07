@@ -1,0 +1,32 @@
+body {
+    background-color: #add8e6;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+    font-weight: bolder;
+}
+
+#Intro {
+    font-size: 30px;
+    font-style: bold;
+}
+
+#Recipe {
+
+    font-size: 25px;
+}
+
+#p1 {background-color: #ff0000;}   /* red */
+#p2 {background-color: #00ff00;}   /* green */
+#p3 {background-color: #0000ff;}   /* blue */
+
+#p1 {background-color: #ff0000;}   /* red */
+#p2 {background-color: #00ff00;}   /* green */
+#p3 {background-color: #0000ff;}   /* blue */
+
+img {
+    height: auto;
+    width: 500px;
+}
